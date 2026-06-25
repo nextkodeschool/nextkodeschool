@@ -153,7 +153,7 @@ Join our community and receive:
     <img src="https://skillicons.dev/icons?i=instagram" height="50"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://linkedin.com/company/nextkodeschool">
+  <a href="https://linkedin.com/in/nextkodeschool">
     <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
   </a>
   &nbsp;&nbsp;
@@ -161,7 +161,7 @@ Join our community and receive:
     <img src="https://cdn.simpleicons.org/youtube/FF0000" height="50"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/nextcodeschool">
+  <a href="https://github.com/nextkodeschool">
     <img src="https://skillicons.dev/icons?i=github" height="50"/>
   </a>
 </p>
