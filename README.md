@@ -1,24 +1,12 @@
-# 🚀 NextKode School
-
 <div align="center">
 
 <!-- LOGO -->
 
-<img src="./assets/logo.svg" width="220"/>
+<img src="./img/landscape.jpeg" width="100%"/>
 
-### Become What's Next
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=28&duration=2500&pause=1200&color=FFC107&center=true&vCenter=true&width=1200&lines=Become+What's+Next+{Generative+AI+Engineer};Become+What's+Next+{AI+Automation+Engineer};Become+What's+Next+{DevOps+Engineer};Become+What's+Next+{Cloud+Engineer};Become+What's+Next+{?}.;Learn.+Practice.+Grow.;Build+Your+Future.;)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat\&weight=600\&size=28\&duration=2000\&pause=1000\&color=FFC107\&center=true\&vCenter=true\&width=900\&lines=Learn.+Practice.+Grow.;Build+Your+Future.;DevOps+Engineering.;Multi-Cloud+Engineering.;Generative+AI+Engineering.;AI+Agents+%26+Automation.;Become+What's+Next.)](https://git.io/typing-svg)
 
-</div>
-
----
-
-<div align="center">
-
-<!-- MAIN PROMOTIONAL IMAGE -->
-
-<img src="./assets/promo.png" width="100%"/>
 
 </div>
 
