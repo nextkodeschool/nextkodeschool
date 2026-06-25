@@ -138,35 +138,34 @@ Join our community and receive:
 
 ---
 
-# 🌍 Join Our Community
+## 🌍 Connect With Us
 
-<div align="center">
+<p align="center">
+  <a href="https://nextkodeschool.com">
+    <img src="https://cdn-icons-png.flaticon.com/256/9368/9368250.png" height="50"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://t.me/nextkodeschool">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/960px-Telegram_logo.svg.png?_=20220101141644" height="50"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/nextkodeschool">
+    <img src="https://skillicons.dev/icons?i=instagram" height="50"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/company/nextkodeschool">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://youtube.com/@nextkodeschool">
+    <img src="https://cdn.simpleicons.org/youtube/FF0000" height="50"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/nextcodeschool">
+    <img src="https://skillicons.dev/icons?i=github" height="50"/>
+  </a>
+</p>
 
-### Website
-
-https://nextkodeschool.com
-
-### Telegram
-
-https://t.me/nextkodeschool
-
-### Instagram
-
-https://instagram.com/nextkodeschool
-
-### LinkedIn
-
-https://linkedin.com/company/nextkodeschool
-
-### YouTube
-
-https://youtube.com/@nextkodeschool
-
-### GitHub
-
-https://github.com/nextcodeschool
-
-</div>
 
 ---
 
