@@ -495,7 +495,7 @@ By the end of this program, you will have practical experience in:
     </td>
     <td width="33%" align="center" bgcolor="#161B22">
       <h3>📚 Curriculum</h3>
-      <strong>44 Practical Classes</strong>
+      <strong>40 - 45 Practical Classes</strong>
     </td>
   </tr>
   <tr>
