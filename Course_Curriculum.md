@@ -11,6 +11,18 @@ Deployment**
 
 ------------------------------------------------------------------------
 
+<div align="center">
+
+<!-- LOGO -->
+
+<img src="./img/landscape.jpeg" width="100%"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=28&duration=2500&pause=1200&color=FFC107&center=true&vCenter=true&width=1200&lines=Become+What's+Next+{Generative+AI+Engineer};Become+What's+Next+{AI+Automation+Engineer};Become+What's+Next+{DevOps+Engineer};Become+What's+Next+{Cloud+Engineer};Become+What's+Next+{?}.;Learn.+Practice.+Grow.;Build+Your+Future.;)](https://git.io/typing-svg)
+
+
+
+</div>
+
 ## 🎯 About the Program
 
 This practical DevOps program takes learners from Linux fundamentals to
