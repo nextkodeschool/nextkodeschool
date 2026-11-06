@@ -421,7 +421,7 @@ using Kubernetes.
                                Topics                Persistent Volumes,
                                                      autoscaling, resource
                                                      requests and limits,
-                                                     probes, Helm, and
+                                                     probes, Helm (theory), and
                                                      troubleshooting.
   ------------------------------------------------------------------------
 
