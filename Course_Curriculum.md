@@ -2,7 +2,7 @@
 
 ### Learn · Build · Automate · Deploy
 
-**40 Practical Classes \| 2--2.5 Months \| Beginner to Real-Time Project
+**40-45 Practical Classes \| 2--2.5 Months \| Beginner to Real-Time Project
 Deployment**
 
 [![Website](https://img.shields.io/badge/Website-nextkodeschool.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nextkodeschool.com)
@@ -145,69 +145,106 @@ scripts.
                                                      Crontab.
   ------------------------------------------------------------------------
 
-## Module 3 --- AWS Cloud Computing
+## Module 3 --- Networking Basics
+
+**Category:** Computer Networking · Network Fundamentals\
+**Classes:** 11--12
+
+Understand how computers communicate with each other, how the internet works, and how networking concepts apply to cloud infrastructure.
+
+  ------------------------------------------------------------------------
+                         Class Topic                 What You'll Learn
+  ---------------------------- --------------------- ---------------------
+                            11 Introduction to       What is a network,
+                               Networking            LAN, WAN, Internet,
+                                                     public IP, private IP,
+                                                     IP addresses, and how
+                                                     devices communicate.
+
+                            12 Networking Components Routers, switches,
+                               & Services            DNS, DHCP, gateways,
+                                                     ports, basic protocols,
+                                                     and how a request
+                                                     travels from your
+                                                     computer to a website.
+  ------------------------------------------------------------------------
+
+## Module 4 --- AWS Cloud Computing
 
 **Category:** Cloud Computing · Amazon Web Services\
-**Classes:** 11--18
+**Classes:** 13--22
 
-Understand cloud computing and learn to provision, manage, scale, and
-monitor AWS infrastructure.
+Understand cloud computing and learn to provision, manage, scale, and monitor AWS infrastructure.
 
   ----------------------------------------------------------------------------
                          Class Topic                 What You'll Learn
   ---------------------------- --------------------- -------------------------
-                            11 AWS Account Creation  AWS account setup,
+                            13 AWS Account Creation  AWS account setup,
                                & Cloud Introduction  billing alerts, Free Tier
                                                      awareness, cloud
                                                      computing, service
                                                      models, Regions, and
                                                      Availability Zones.
 
-                            12 Amazon EC2            EC2 fundamentals,
+                            14 AWS VPC & Networking  VPC, CIDR blocks, public
+                                                     and private subnets,
+                                                     route tables, Internet
+                                                     Gateway, NAT Gateway,
+                                                     and security groups.
+
+                            15 Amazon EC2            EC2 fundamentals,
                                                      instance types, launching
                                                      instances, key pairs, and
                                                      connecting to Linux
                                                      servers.
 
-                            13 AWS IAM               Users, groups, roles,
+                            16 AWS IAM               Users, groups, roles,
                                                      policies, permissions,
                                                      and least-privilege
                                                      access.
 
-                            14 AWS CLI               Installing and
+                            17 AWS CLI               Installing and
                                                      configuring AWS CLI,
                                                      profiles, credentials,
                                                      and managing AWS
                                                      resources from the
                                                      terminal.
 
-                            15 AWS Elastic Load      Application Load
+                            18 AWS Elastic Load      Application Load
                                Balancing             Balancer, listeners,
                                                      target groups, health
                                                      checks, and traffic
                                                      distribution.
 
-                            16 AWS CloudWatch & SNS  Metrics, logs, alarms,
+                            19 AWS CloudWatch & SNS  Metrics, logs, alarms,
                                                      EC2 monitoring, SNS
                                                      notifications, and email
                                                      alerts.
 
-                            17 Amazon Machine Images Creating custom AMIs,
+                            20 Amazon Machine Images Creating custom AMIs,
                                (AMI)                 launching instances from
                                                      images, and reusable
                                                      server configurations.
 
-                            18 Launch Templates &    Launch templates,
+                            21 Launch Templates &    Launch templates,
                                Auto Scaling Groups   minimum/desired/maximum
                                                      capacity, scaling
                                                      policies, and load
                                                      balancer integration.
+
+                            22 Amazon RDS            Relational databases,
+                                                     RDS instance creation,
+                                                     database connectivity,
+                                                     public/private access,
+                                                     security groups, and
+                                                     connecting an application
+                                                     to RDS.
   ----------------------------------------------------------------------------
 
-## Module 4 --- Git & GitHub
+## Module 5 --- Git & GitHub
 
 **Category:** Version Control System · Source Code Management\
-**Classes:** 19--21
+**Classes:** 23--25
 
 Learn how developers manage source code, track changes, and collaborate
 through Git and GitHub.
@@ -215,29 +252,29 @@ through Git and GitHub.
   ------------------------------------------------------------------------
                          Class Topic                 What You'll Learn
   ---------------------------- --------------------- ---------------------
-                            19 Introduction to Git & Version control, Git
+                            23 Introduction to Git & Version control, Git
                                GitHub                vs GitHub,
                                                      installation,
                                                      configuration, and
                                                      repositories.
 
-                            20 Git & GitHub Core     `init`, `add`,
+                            24 Git & GitHub Core     `init`, `add`,
                                Concepts              `commit`, `push`,
                                                      `pull`, `clone`,
                                                      branches, merging,
                                                      and merge conflicts.
 
-                            21 GitHub Pages          Hosting static
+                            25 GitHub Pages          Hosting static
                                                      websites, repository
                                                      configuration, and
                                                      publishing websites
                                                      using GitHub Pages.
   ------------------------------------------------------------------------
 
-## Module 5 --- Terraform & Infrastructure as Code
+## Module 6 --- Terraform & Infrastructure as Code
 
 **Category:** Infrastructure as Code · Cloud Automation\
-**Classes:** 22--27
+**Classes:** 26--31
 
 Learn to provision and manage cloud infrastructure through reusable
 Terraform configurations.
@@ -245,73 +282,73 @@ Terraform configurations.
   -------------------------------------------------------------------------
                          Class Topic                 What You'll Learn
   ---------------------------- --------------------- ----------------------
-                            22 Introduction to       Infrastructure as
+                            26 Introduction to       Infrastructure as
                                Terraform & IaC       Code, Terraform
                                                      architecture,
                                                      providers, resources,
                                                      installation, and
                                                      first deployment.
 
-                            23 Terraform Project     `.tf` files,
+                            27 Terraform Project     `.tf` files,
                                Structure             providers, variables,
                                                      outputs, `init`,
                                                      `plan`, `apply`, and
                                                      state fundamentals.
 
-                            24 Terraform Modules     Root and child
+                            28 Terraform Modules     Root and child
                                                      modules, reusable
                                                      infrastructure, input
                                                      variables, outputs,
                                                      and module references.
 
-                            25 Terraform             Dev, QA, and
+                            29 Terraform             Dev, QA, and
                                Environments          Production
                                                      environments,
                                                      environment-specific
                                                      variables, and
                                                      workspaces.
 
-                            26 Website Deployment    Provisioning AWS
+                            30 Website Deployment    Provisioning AWS
                                Using Terraform       networking and EC2
                                                      resources and
                                                      deploying a website
                                                      through Terraform.
 
-                            27 Terraform Import &    Importing existing
+                            31 Terraform Import &    Importing existing
                                State Management      resources, state
                                                      files, remote state,
                                                      state locking, and
                                                      safe state management.
   -------------------------------------------------------------------------
 
-## Module 6 --- CI/CD with GitHub Actions
+## Module 7 --- CI/CD with GitHub Actions
 
 **Category:** Continuous Integration · Continuous Delivery · DevOps
 Automation\
-**Classes:** 28--29
+**Classes:** 32--33
 
 Automate infrastructure workflows using GitHub Actions.
 
   ------------------------------------------------------------------------
                          Class Topic                 What You'll Learn
   ---------------------------- --------------------- ---------------------
-                            28 Introduction to CI/CD CI/CD fundamentals,
+                            32 Introduction to CI/CD CI/CD fundamentals,
                                & GitHub Actions      workflows, events,
                                                      jobs, runners, steps,
                                                      and creating a
                                                      workflow.
 
-                            29 Terraform CI/CD with  Automating Terraform
+                            33 Terraform CI/CD with  Automating Terraform
                                GitHub Actions        validation and plans,
                                                      deployment workflows,
                                                      AWS credentials, and
                                                      GitHub Secrets.
   ------------------------------------------------------------------------
 
-## Module 7 --- Docker & Containerization
+## Module 8 --- Docker & Containerization
 
 **Category:** Containerization · Application Deployment\
-**Classes:** 30--33
+**Classes:** 34--37
 
 Learn to package applications into containers and automate image build
 and delivery workflows.
@@ -319,38 +356,38 @@ and delivery workflows.
   ------------------------------------------------------------------------
                          Class Topic                 What You'll Learn
   ---------------------------- --------------------- ---------------------
-                            30 Introduction to       Containerization,
+                            34 Introduction to       Containerization,
                                Docker                containers vs virtual
                                                      machines, Docker
                                                      architecture, Docker
                                                      Engine, and Docker
                                                      Hub.
 
-                            31 Docker Images &       Dockerfiles, building
+                            35 Docker Images &       Dockerfiles, building
                                Application           images, running
                                Deployment            containers, image
                                                      tagging, pushing and
                                                      pulling images from
                                                      Docker Hub.
 
-                            32 Docker Compose &      Compose files,
+                            36 Docker Compose &      Compose files,
                                Networking            multi-container
                                                      applications, bridge
                                                      and host networking,
                                                      and container
                                                      communication.
 
-                            33 Docker CI/CD with     Automated image
+                            37 Docker CI/CD with     Automated image
                                GitHub Actions        builds, Docker Hub
                                                      integration, GitHub
                                                      Secrets, and image
                                                      publishing workflows.
   ------------------------------------------------------------------------
 
-## Module 8 --- Kubernetes & Amazon EKS
+## Module 9 --- Kubernetes & Amazon EKS
 
 **Category:** Container Orchestration · Cloud-Native Technologies\
-**Classes:** 34--37
+**Classes:** 38--41
 
 Learn to deploy, expose, scale, and manage containerized applications
 using Kubernetes.
@@ -358,21 +395,21 @@ using Kubernetes.
   ------------------------------------------------------------------------
                          Class Topic                 What You'll Learn
   ---------------------------- --------------------- ---------------------
-                            34 Introduction to       Container
+                            38 Introduction to       Container
                                Kubernetes            orchestration,
                                                      Kubernetes
                                                      architecture, Control
                                                      Plane, Worker Nodes,
                                                      Pods, and `kubectl`.
 
-                            35 Kubernetes Objects,   Pods, Deployments,
+                            39 Kubernetes Objects,   Pods, Deployments,
                                K3s & Application     ReplicaSets,
                                Deployment            Services, ConfigMaps,
                                                      Secrets, K3s cluster
                                                      setup, and port
                                                      forwarding.
 
-                            36 Amazon EKS Cluster    EKS architecture,
+                            40 Amazon EKS Cluster    EKS architecture,
                                Setup                 cluster setup,
                                                      configuring
                                                      `kubectl`, connecting
@@ -380,7 +417,7 @@ using Kubernetes.
                                                      and application
                                                      deployment.
 
-                            37 Advanced Kubernetes   Namespaces, Ingress,
+                            41 Advanced Kubernetes   Namespaces, Ingress,
                                Topics                Persistent Volumes,
                                                      autoscaling, resource
                                                      requests and limits,
@@ -388,10 +425,10 @@ using Kubernetes.
                                                      troubleshooting.
   ------------------------------------------------------------------------
 
-## Module 9 --- Real-Time DevOps Project
+## Module 10 --- Real-Time DevOps Project
 
 **Category:** Practical Implementation · End-to-End DevOps Deployment\
-**Classes:** 38--40
+**Classes:** 42--44
 
 Bring the tools together to build and deploy an application through a
 practical DevOps workflow.
@@ -399,7 +436,7 @@ practical DevOps workflow.
   ------------------------------------------------------------------------
                          Class Topic                 What You'll Learn
   ---------------------------- --------------------- ---------------------
-                            38 Project Deployment    Project architecture,
+                            42 Project Deployment    Project architecture,
                                --- Part 1            source code
                                                      management, AWS
                                                      infrastructure
@@ -408,7 +445,7 @@ practical DevOps workflow.
                                                      image creation, and
                                                      registry publishing.
 
-                            39 Project Deployment    Kubernetes
+                            43 Project Deployment    Kubernetes
                                --- Part 2            deployment, Services,
                                                      Ingress, GitHub
                                                      Actions CI/CD
@@ -416,7 +453,7 @@ practical DevOps workflow.
                                                      monitoring, and
                                                      troubleshooting.
 
-                            40 Final Project Review  End-to-end
+                            44 Final Project Review  End-to-end
                                & Best Practices      architecture
                                                      walkthrough, pipeline
                                                      review, security,
@@ -458,7 +495,7 @@ By the end of this program, you will have practical experience in:
     </td>
     <td width="33%" align="center" bgcolor="#161B22">
       <h3>📚 Curriculum</h3>
-      <strong>40 Practical Classes</strong>
+      <strong>44 Practical Classes</strong>
     </td>
   </tr>
   <tr>
